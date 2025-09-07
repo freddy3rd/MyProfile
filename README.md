@@ -15,53 +15,8 @@ My goal is to tailor solutions that perfectly fit client needs, covering areas l
 
 ---
 
-## 🛠️ Languages and Tools  
-
-<p>
-<a  class="px-2 bg-white" href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="margin: 10px; background:white; padding:5px; border-radius:6px;"/>
-  </a>
-  <!-- CSS3 -->
-  <a  class="px-2 bg-white" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="margin: 10px; background:white; padding:5px; border-radius:6px;"/>
-  </a>
-  <!-- Express -->
-  <a  class="px-2 bg-white" href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" style="margin: 10px; background:white; padding:5px; border-radius:6px;"/>
-  </a>
-  <!-- HTML5 -->
-  <a  class="px-2 bg-white" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin: 10px; background:white; padding:5px; border-radius:6px;"/>
-  </a>
-  <!-- JavaScript -->
-  <a  class="px-2 bg-white" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 10px; background:white; padding:5px; border-radius:6px;"/>
-  </a>
-  <!-- Next.js -->
-  <a  class="px-2 bg-white" href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50" style="margin: 10px; background:white; padding:5px; border-radius:6px;"/>
-  </a>
-  <!-- Node.js -->
-  <a  class="px-2 bg-white" href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin: 10px; background:white; padding:5px; border-radius:6px;"/>
-  </a>
-  <!-- Python -->
-  <a  class="px-2 bg-white" href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 10px; background:white; padding:5px; border-radius:6px;"/>
-  </a>
-  <!-- React -->
-  <a  class="px-2 bg-white" href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin: 10px; background:white; padding:5px; border-radius:6px;"/>
-  </a>
-  <!-- Tailwind -->
-  <a  class="px-2 bg-white" href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="margin: 10px; background:white; padding:5px; border-radius:6px;"/>
-  </a>
-  <!-- Vue.js -->
-  <a  class="px-2 bg-white" href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50" style="margin: 10px; background:white; padding:5px; border-radius:6px;"/>
-  </a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ---
@@ -79,15 +34,16 @@ My goal is to tailor solutions that perfectly fit client needs, covering areas l
 
 <div>
   
-![Clifford's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
+![](https://github-readme-stats.vercel.app/api?username=freddy3rd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=freddy3rd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=freddy3rd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ---
 
 ### 📫 Let’s Connect  
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/your-link" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
